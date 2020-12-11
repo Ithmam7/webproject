@@ -1,0 +1,1 @@
+(function(){window.__gigyaConf={sessionExpiration:15724800,enableSSOToken:true,customEventMap:{eventMap:[{events:'afterResponse',args:[function(e){return e;}],method:function(e){if(e.methodName==='accounts.resetPassword'){e.response.errorCode=0;}}}]}};})();;
